@@ -1,0 +1,36 @@
+.work-page{
+    padding-top: 400px;
+    margin-block: 180px;
+    
+    .experience-box {
+    display: flex;
+    flex-direction: column;
+    gap: 30px; 
+    margin-bottom: 20px;
+  }
+    .card1,.card2,.card3{
+        width: 520px;
+        height: 280px;
+       background-color: #2f2f2f;
+        border-radius: 10px;
+        padding-left:20px ;
+        padding-top: 20px;
+         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+        font-family:  sans-serif;
+        h2{
+            font-size: 20px;
+            color: #ffd700;
+        }
+        .duration{
+            color: #ffd700;
+
+        }
+    }
+    .suitcase{
+        position: fixed;
+        top: 10%;
+        left:150%;
+        width: auto;
+        z-index: 10;
+    }
+}
