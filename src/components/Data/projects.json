@@ -1,0 +1,17 @@
+{
+    "projects":[
+        {
+            "cover":"./projects/getUrpump.png",
+            "title":"getUrPump",
+            "description":"React, FantaCSS",
+            "url": "https://geturpump.netlify.app/"
+        }
+,
+         {
+            "cover":"./projects/personal-portfolio.png",
+            "title":"Portfolio",
+            "description":"React, EmailJs, Sass",
+            "url": "/"
+        }
+    ]
+}
