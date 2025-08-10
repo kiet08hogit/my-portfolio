@@ -7,11 +7,19 @@
             "url": "https://geturpump.netlify.app/"
         }
 ,
+ 
+        {
+            "cover":"./projects/flight-tracker.png",
+            "title":"Family Travel Tracker",
+            "description":"Node.js, PostgreSQL, EJS",
+            "url": "https://github.com/kiet08hogit/Family-Travel-Tracker"
+        },
          {
             "cover":"./projects/personal-portfolio.png",
             "title":"Portfolio",
             "description":"React, EmailJs, Sass",
             "url": "/"
         }
+   
     ]
 }

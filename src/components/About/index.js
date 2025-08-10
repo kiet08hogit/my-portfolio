@@ -31,9 +31,10 @@ const About=()=>{
             </div>
 
             <div className='skills'>
-                <p>Programming Language: Javascript, Python, C++, C, HTML/CSS</p>
-                   <p>Frameworks and Tools: ReactJs, NodeJs, Boostrap, Git</p>
-                
+                <p>Programming Language: JavaScript, Python, C++, C, SQL, HTML/CSS </p>
+                   <p>Frameworks: React.js, Express.js, Node.js, REST API, Bootstrap </p>
+                    <p>Tools: PostgreSQL, Postman, Git </p>
+
             </div>
             <div className='stage-cube-cont'>
                 <div className='cube-spinner'>
